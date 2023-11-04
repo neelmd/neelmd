@@ -1,0 +1,3 @@
+- 👋 Hi, I’m *Neel* <!--@neelmd-->
+- 📚 AS level student
+- 👀 I’m interested in Neuroscience, Aritificial Intelligence, Biomedical Science
