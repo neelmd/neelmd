@@ -1,3 +1,3 @@
 - 👋 Hi, I’m *Neel* <!--@neelmd-->
-- 📚 A level student
-- 👀 I’m interested in Neuroscience, Aritificial Intelligence and Cybersecurity.
+- 📚 CS Freshman
+- 👀 I’m interested in CS, Aritificial Intelligence and Cybersecurity.
